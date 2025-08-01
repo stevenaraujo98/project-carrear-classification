@@ -1,6 +1,13 @@
 # Codigos para proyectos de carrera
 
-## Scrap para dspace
+## Dspace
 
+## Structure
+- 1_preprocessing.ipynb
+    union csvs
+- 2_processing.ipynb
+    data augmentation
+- 3_postprocessing.ipynb
+    lematizacion
 
 
