@@ -1,0 +1,22 @@
+{
+  "LinearSVC": {
+    "test_accuracy": 0.8622346698113208,
+    "test_f1": 0.8585189740965166,
+    "training_time": 1.1790690422058105
+  },
+  "Random_Forest": {
+    "test_accuracy": 0.9414209905660378,
+    "test_f1": 0.9412712565182166,
+    "training_time": 133.48712468147278
+  },
+  "Logistic_Regression": {
+    "test_accuracy": 0.9095224056603773,
+    "test_f1": 0.9089972071719155,
+    "training_time": 43.62426805496216
+  },
+  "XGBoost": {
+    "test_accuracy": 0.8578714622641509,
+    "test_f1": 0.8580868465021279,
+    "training_time": 666.3514134883881
+  }
+}

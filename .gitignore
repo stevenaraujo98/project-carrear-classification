@@ -1,3 +1,4 @@
 projects*.csv
 carreras*.csv
 models/*
+*.log

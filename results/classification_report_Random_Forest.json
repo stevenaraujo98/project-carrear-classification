@@ -1,0 +1,219 @@
+{
+  "Acuicultura": {
+    "precision": 0.9790575916230366,
+    "recall": 0.93687374749499,
+    "f1-score": 0.9575012800819253,
+    "support": 998.0
+  },
+  "Administraci\u00f3n de Empresas": {
+    "precision": 0.8474226804123711,
+    "recall": 0.822,
+    "f1-score": 0.8345177664974619,
+    "support": 1000.0
+  },
+  "Alimentos": {
+    "precision": 0.9450661241098678,
+    "recall": 0.929,
+    "f1-score": 0.9369641956631367,
+    "support": 1000.0
+  },
+  "Arqueolog\u00eda": {
+    "precision": 0.9910625620655412,
+    "recall": 0.998,
+    "f1-score": 0.9945191828599901,
+    "support": 1000.0
+  },
+  "Auditor\u00eda y Control de Gesti\u00f3n": {
+    "precision": 0.944007858546169,
+    "recall": 0.9629258517034068,
+    "f1-score": 0.9533730158730159,
+    "support": 998.0
+  },
+  "Biolog\u00eda": {
+    "precision": 0.9575757575757575,
+    "recall": 0.950852557673019,
+    "f1-score": 0.9542023150478107,
+    "support": 997.0
+  },
+  "Computaci\u00f3n": {
+    "precision": 0.8604651162790697,
+    "recall": 0.8996960486322189,
+    "f1-score": 0.8796433878157504,
+    "support": 987.0
+  },
+  "Dise\u00f1o Gr\u00e1fico": {
+    "precision": 0.9369918699186992,
+    "recall": 0.9284994964753273,
+    "f1-score": 0.9327263530601922,
+    "support": 993.0
+  },
+  "Dise\u00f1o de Productos": {
+    "precision": 0.9910179640718563,
+    "recall": 0.993,
+    "f1-score": 0.9920079920079921,
+    "support": 1000.0
+  },
+  "Econom\u00eda": {
+    "precision": 0.834375,
+    "recall": 0.8026052104208417,
+    "f1-score": 0.8181818181818182,
+    "support": 998.0
+  },
+  "Electricidad": {
+    "precision": 0.861796643632774,
+    "recall": 0.8782696177062375,
+    "f1-score": 0.8699551569506726,
+    "support": 994.0
+  },
+  "Electr\u00f3nica y Automatizaci\u00f3n": {
+    "precision": 0.9024134312696747,
+    "recall": 0.8625877632898696,
+    "f1-score": 0.882051282051282,
+    "support": 997.0
+  },
+  "Estad\u00edstica": {
+    "precision": 0.9416498993963782,
+    "recall": 0.936,
+    "f1-score": 0.9388164493480441,
+    "support": 1000.0
+  },
+  "Geolog\u00eda": {
+    "precision": 0.9601196410767697,
+    "recall": 0.963,
+    "f1-score": 0.9615576635047429,
+    "support": 1000.0
+  },
+  "Ingenier\u00eda  Civil": {
+    "precision": 0.9529529529529529,
+    "recall": 0.9539078156312625,
+    "f1-score": 0.9534301452178268,
+    "support": 998.0
+  },
+  "Ingenier\u00eda Agr\u00edcola y Biol\u00f3gica": {
+    "precision": 0.9571713147410359,
+    "recall": 0.961,
+    "f1-score": 0.9590818363273453,
+    "support": 1000.0
+  },
+  "Ingenier\u00eda Industrial": {
+    "precision": 0.9143145161290323,
+    "recall": 0.907,
+    "f1-score": 0.9106425702811245,
+    "support": 1000.0
+  },
+  "Ingenier\u00eda Naval": {
+    "precision": 0.97997997997998,
+    "recall": 0.979,
+    "f1-score": 0.9794897448724362,
+    "support": 1000.0
+  },
+  "Ingenier\u00eda Qu\u00edmica": {
+    "precision": 0.9527720739219713,
+    "recall": 0.928928928928929,
+    "f1-score": 0.9406994424733908,
+    "support": 999.0
+  },
+  "Logistica y Transporte": {
+    "precision": 0.9591836734693877,
+    "recall": 0.987,
+    "f1-score": 0.9728930507639231,
+    "support": 1000.0
+  },
+  "Matem\u00e1tica": {
+    "precision": 0.9970089730807578,
+    "recall": 1.0,
+    "f1-score": 0.9985022466300549,
+    "support": 1000.0
+  },
+  "Materiales": {
+    "precision": 0.9920556107249255,
+    "recall": 0.999,
+    "f1-score": 0.9955156950672646,
+    "support": 1000.0
+  },
+  "Mecatr\u00f3nica": {
+    "precision": 0.9557157569515963,
+    "recall": 0.928,
+    "f1-score": 0.9416539827498731,
+    "support": 1000.0
+  },
+  "Mec\u00e1nica": {
+    "precision": 0.8466730954676953,
+    "recall": 0.878,
+    "f1-score": 0.8620520373097693,
+    "support": 1000.0
+  },
+  "Minas": {
+    "precision": 0.9609375,
+    "recall": 0.9889447236180905,
+    "f1-score": 0.974739970282318,
+    "support": 995.0
+  },
+  "Nutrici\u00f3n y Diet\u00e9tica": {
+    "precision": 0.967032967032967,
+    "recall": 0.968,
+    "f1-score": 0.9675162418790605,
+    "support": 1000.0
+  },
+  "Oceanograf\u00eda": {
+    "precision": 0.9831181727904668,
+    "recall": 0.99,
+    "f1-score": 0.9865470852017937,
+    "support": 1000.0
+  },
+  "Petr\u00f3leos": {
+    "precision": 0.9320388349514563,
+    "recall": 0.9628886659979939,
+    "f1-score": 0.9472126295017267,
+    "support": 997.0
+  },
+  "Producci\u00f3n para Medios de Comunicaci\u00f3n": {
+    "precision": 0.921875,
+    "recall": 0.9682051282051282,
+    "f1-score": 0.9444722361180591,
+    "support": 975.0
+  },
+  "Tecnolog\u00eda Superior en Logistica Portuaria": {
+    "precision": 0.999000999000999,
+    "recall": 1.0,
+    "f1-score": 0.9995002498750625,
+    "support": 1000.0
+  },
+  "Tecnolog\u00eda Superior en Mecatr\u00f3nica": {
+    "precision": 0.9745845552297165,
+    "recall": 0.997,
+    "f1-score": 0.9856648541769649,
+    "support": 1000.0
+  },
+  "Telecomunicaciones": {
+    "precision": 0.9210799584631361,
+    "recall": 0.8887775551102205,
+    "f1-score": 0.90464048954615,
+    "support": 998.0
+  },
+  "Telem\u00e1tica": {
+    "precision": 0.9474237644584648,
+    "recall": 0.9046184738955824,
+    "f1-score": 0.9255264509501797,
+    "support": 996.0
+  },
+  "Turismo": {
+    "precision": 0.9380530973451328,
+    "recall": 0.954,
+    "f1-score": 0.9459593455627169,
+    "support": 1000.0
+  },
+  "accuracy": 0.9414209905660378,
+  "macro avg": {
+    "precision": 0.9413527922549894,
+    "recall": 0.941399458375974,
+    "f1-score": 0.9412281812862022,
+    "support": 33920.0
+  },
+  "weighted avg": {
+    "precision": 0.9414164536197072,
+    "recall": 0.9414209905660378,
+    "f1-score": 0.9412712565182166,
+    "support": 33920.0
+  }
+}
